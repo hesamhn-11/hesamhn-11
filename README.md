@@ -1,21 +1,24 @@
-<h1 align="center">Hi 👋, I'm Hesam Hassannejad</h1>
-<h3 align="center">Front-end Student Who Loves Coding!</h3>
+# 💫 About Me:
+I'm Hesam who is learning frontend coding! 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hesamhn-11&label=Profile%20views&color=0e75b6&style=flat" alt="hesamhn-11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hesamhn-11" alt="hesamhn-11" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hesamhassannejad.dv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hesam-hassannejad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hesamhn11@gmail.com) 
 
-- 📫 How to reach me **hesamhn11@gmail.com**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hesamhn-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hesamhn-11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hesamhn-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hesam-hassannejad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hesam-hassannejad" height="30" width="40" /></a>
-<a href="https://instagram.com/hesamhassannejad.dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hesamhassannejad.dv" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hesamhn-11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hesamhn-11&show_icons=true&locale=en&layout=compact" alt="hesamhn-11" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=hesamhn-11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hesamhn-11&show_icons=true&locale=en" alt="hesamhn-11" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
